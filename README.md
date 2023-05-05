@@ -6,5 +6,5 @@ The script requires python and the following python libraries: requests, bs4, an
 ```pip install bs4```
 ```pip install lxml```
 
-## Executing the Program
+## Executing the Script
 After installing the required dependencies required to run the script, simply run ```python nprnewsdownload.py```. A batch script for Windows and shell script for Linux have been provided for your convenience. These scripts can also be used to help add the program to the chron or Windows Task Scheduler, so the News Can be downloaded with at a set time without user intervention. This is perfect for radio stations.
